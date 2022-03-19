@@ -1,0 +1,5 @@
+entero = val1
+entero = val2
+resultado = ( val1 + val2 ) * 5
+&
+escriba = resultado
